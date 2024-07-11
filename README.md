@@ -4,7 +4,7 @@
 
 - Nama: Ahmadio Rasyadi Hermanu
 - Program: Job Connector Data Science and Machine Learning (Online)
-- Batch: JCDSOL-013
+- Batch: JCDSOL-014
 - Case Study: New York City TLC Trip Record
 - Dataset bisa di unduh [di sini](https://drive.google.com/drive/folders/1NYHIL-RgVPW-HONz4pdzlcbIChF-c37N), gunakan Dataset US
 - [Tableau Story](https://public.tableau.com/app/profile/ahmadio.rasyadi.hermanu2866/viz/NYCTLCTRIPRECORD-AhmadioRasyadiHermanu/Dashboard1?publish=yes)
