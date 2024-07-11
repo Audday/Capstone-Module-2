@@ -8,7 +8,7 @@
 - Case Study: New York City TLC Trip Record
 - Dataset bisa di unduh [di sini](https://drive.google.com/drive/folders/1NYHIL-RgVPW-HONz4pdzlcbIChF-c37N), gunakan Dataset US
 - [Tableau Story](https://public.tableau.com/app/profile/ahmadio.rasyadi.hermanu2866/viz/NYCTLCTRIPRECORD-AhmadioRasyadiHermanu/Dashboard1?publish=yes)
-- YouTube Video About This Project
+- YouTube Video About This Project, [di sini](https://youtu.be/AHnr7FKG3MU)
 
 This Project Talks About The New York City Taxi and Limousine Commission (TLC) oversees the operations of the city's various taxi and for-hire vehicle services. The NYC TLC Trip Record dataset provides comprehensive information about taxi trips in New York City, capturing various details such as pickup and dropoff times, locations, passenger counts, trip distances, fare amounts, and payment methods. This dataset is instrumental for analyzing taxi operations, passenger behavior, and fare structures.
 
